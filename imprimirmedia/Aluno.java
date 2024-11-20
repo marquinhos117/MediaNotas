@@ -8,8 +8,6 @@ package com.mycompany.imprimirmedia;
  *
  * @author Estudos
  */
-
-// Classe para representar um Aluno
 public class Aluno {
     private String nome;
     private double nota1;
